@@ -13,7 +13,7 @@ The website presents a professional-looking layout for a legal service company, 
 * Navigation bar
 * Hero/banner section
 * The Legal Practice Area
-* What Our Client Say
+* Client's Review
 * Frequently Asked Questions (FAQ)
 * Contact section
 * Footer
@@ -35,7 +35,7 @@ The website presents a professional-looking layout for a legal service company, 
 
 ```text
 Legal-Solutions/
-├── images
+├── images/
 ├── index.html
 ├── legal.css
 └── README.md
